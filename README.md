@@ -7,7 +7,7 @@ Abaixo estão mais detalhes sobre mim:
 - 🎈 Meus estudos secundários são: desenho, canto, dramaturgia e psicologia e psicanálise.
 - 🔧 Trabalho em um editor de artes online chamado Udois, pela GeraUp Tecnologia.
 - 👨‍💻 As ferramentas que uso no trabalho são: PHP + Laravel, Bootstrap e Google Cloud.
-- 👨‍💻 Outras ferramentas e linguagens que sei e não uso profissionalmente são: Python, Lua (com Roblox Studio), Java, Javascript com nodejs, ReactJs.
+- 👨‍💻 Outras ferramentas e linguagens que uso em projetos pessoais: Python, Lua (com Roblox Studio), Java, Javascript com NodeJs, ReactJs, DiscordJs.
 - 👨‍🏫 Mentor de programação. Guio alunos para se tornarem **bons** programadores.
 <!--
 **matheussilva2/matheussilva2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
